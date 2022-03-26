@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yqkvGFFC4/PsVsyUJ/hX4t0Z8HncIC7hCYTQdU3WJv9QQ0nDB5SmZUqIQ+Be/6NWk4kFe1LsQhGIFjGwwv/Inw==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\TFSServer\\SelfUtilsLocal\\Common.PdfUtil.Core\\Common.PdfUtil.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Logesh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Logesh\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Logesh\\.nuget\\packages\\pdfsharpcore\\1.3.13\\pdfsharpcore.1.3.13.nupkg.sha512",
+    "C:\\Users\\Logesh\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta0013\\sixlabors.fonts.1.0.0-beta0013.nupkg.sha512",
+    "C:\\Users\\Logesh\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512",
+    "C:\\Users\\Logesh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Logesh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

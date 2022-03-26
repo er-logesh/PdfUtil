@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PdfUtil": {
+      "commandName": "Project",
+      "commandLineArgs": "-o Protect -p \"07-02-1995\" -f \"D:\\Documents\\Data_Structures_and_Algorithms_Using_C.pdf\" -l true"
+    }
+  }
+}

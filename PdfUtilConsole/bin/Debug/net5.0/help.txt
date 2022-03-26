@@ -1,0 +1,19 @@
+﻿
+Argemnts Available:
+
+FilePath : Mention the pdf file path.
+
+FolderPath : Mention the folder path. Pdf files in the folder will be processed.
+
+OutputFolder : Where the processed files will be placed.
+
+OpenFile : Once operation is done either to open pdf in user default pdf viewer is decided based on this.
+
+Operation :  Mention the kind of operation that you want to do to a pdf.
+
+Password : please provide the secret that used to protect / unlock the pdf
+
+Ex. PdfUtil.exe FilePath=C:\Docs\random.pdf FolderPath=C:\Docs\ OpenFile=true|false Operation=Split|Merge|Protect|Unlock
+
+Unlock/Protect: Incase of unlock or protect of pdf user needs to pass secret that will be used to protect/unlock the pdf.
+

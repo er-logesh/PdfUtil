@@ -1,0 +1,12 @@
+D:\Code\TFSServer\SelfUtilsLocal\Common.PdfUtil.Core\obj\Debug\net5.0\Common.PdfUtil.Core.csproj.AssemblyReference.cache
+D:\Code\TFSServer\SelfUtilsLocal\Common.PdfUtil.Core\obj\Debug\net5.0\Common.PdfUtil.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\TFSServer\SelfUtilsLocal\Common.PdfUtil.Core\obj\Debug\net5.0\Common.PdfUtil.Core.AssemblyInfoInputs.cache
+D:\Code\TFSServer\SelfUtilsLocal\Common.PdfUtil.Core\obj\Debug\net5.0\Common.PdfUtil.Core.AssemblyInfo.cs
+D:\Code\TFSServer\SelfUtilsLocal\Common.PdfUtil.Core\obj\Debug\net5.0\Common.PdfUtil.Core.csproj.CoreCompileInputs.cache
+D:\Code\TFSServer\SelfUtilsLocal\Common.PdfUtil.Core\bin\Debug\net5.0\Common.PdfUtil.Core.deps.json
+D:\Code\TFSServer\SelfUtilsLocal\Common.PdfUtil.Core\bin\Debug\net5.0\Common.PdfUtil.Core.dll
+D:\Code\TFSServer\SelfUtilsLocal\Common.PdfUtil.Core\bin\Debug\net5.0\ref\Common.PdfUtil.Core.dll
+D:\Code\TFSServer\SelfUtilsLocal\Common.PdfUtil.Core\bin\Debug\net5.0\Common.PdfUtil.Core.pdb
+D:\Code\TFSServer\SelfUtilsLocal\Common.PdfUtil.Core\obj\Debug\net5.0\Common.PdfUtil.Core.dll
+D:\Code\TFSServer\SelfUtilsLocal\Common.PdfUtil.Core\obj\Debug\net5.0\ref\Common.PdfUtil.Core.dll
+D:\Code\TFSServer\SelfUtilsLocal\Common.PdfUtil.Core\obj\Debug\net5.0\Common.PdfUtil.Core.pdb
