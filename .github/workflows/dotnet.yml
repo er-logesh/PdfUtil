@@ -23,6 +23,6 @@ jobs:
       run: dotnet build --no-restore --configuration Release
     - uses: ncipollo/release-action@v1
       with:
-        artifacts: "release.tar.gz,foo/*.txt"
+        artifacts: "PdfUtilConsole/bin/Release/net5.0/*"
         bodyFile: "body.md"
         token: ${{ secrets.GITHUB_TOKEN }}
