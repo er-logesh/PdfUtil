@@ -13,9 +13,9 @@ Usage :
   
   Ex : PdfUtil.exe -f "c:\Documents\Test.pdf" -d "c:\Output" --directory "c:\Documents" -o Unlock -l true -p 123
   
-  -f or --filepath  : Pdf file path. Multiple files can be passed by adding comma (,) c:\Test.pdf,c:\Test1.pdf
-  --directory       : Directory that has pdf files. -f or --directory can be used. if both passed --directory will be considered.Either one is mandatory.
-  -d or --output    : Destination folder where file will be placed once processed. Optional
-  -o or --operation : Pdf operation. Now only Unlock and Protect is available.
-  -l or --launch    : File will opened in the default pdf viewer if user pass true in CLI. Mandatory argument.
-  -p or --password  : To protect or unlock file this is needed. Mandatory in case of protect and unlock operation.
+  -f or --filepath  : Pdf file path. Multiple files can be passed by adding comma (,) c:\Test.pdf,c:\Test1.pdf.<br />
+  --directory       : Directory that has pdf files. -f or --directory can be used. if both passed --directory will be considered.Either one is mandatory.<br />
+  -d or --output    : Destination folder where file will be placed once processed. Optional<br />
+  -o or --operation : Pdf operation. Now only Unlock and Protect is available.<br />
+  -l or --launch    : File will opened in the default pdf viewer if user pass true in CLI. Mandatory argument.<br />
+  -p or --password  : To protect or unlock file this is needed. Mandatory in case of protect and unlock operation.<br />
